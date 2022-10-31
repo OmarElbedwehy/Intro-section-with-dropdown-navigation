@@ -51,7 +51,6 @@ document.getElementById('mobile-comp-link-2').onclick = function() {
 }
 
 document.getElementById('toggle').onclick = function() {
-  // document.getElementById('mobile-nav').style.right = '0';
   document.getElementById('mobile-nav').style.display = 'block';
   document.getElementById('mobile-nav').style.width = '65%';
   document.getElementById('model-opacity').style.display = 'block';
